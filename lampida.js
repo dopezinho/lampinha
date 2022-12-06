@@ -1,0 +1,1 @@
+var lampida = window.document.getElementById('lampida')
